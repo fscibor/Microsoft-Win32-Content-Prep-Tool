@@ -1,3 +1,4 @@
+**https://learn.microsoft.com/en-us/mem/intune/apps/apps-win32-prepare**
 # Microsoft Win32 Content Prep Tool
 
 Manage Windows Apps (.intunewin) with Intune
